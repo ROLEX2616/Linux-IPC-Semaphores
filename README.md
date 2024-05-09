@@ -14,14 +14,14 @@ Navigate to any Linux environment installed on the system or installed inside a 
 
 Write the C Program using Linux Process API - Sempahores
 
+
+
 ### Step 3:
 
 Execute the C Program for the desired output. 
 
 # PROGRAM:
 
-Developed by : VARSHA A
-Register Number : 212223220121
 
 ## Write a C program that implements a producer-consumer system with two processes using Semaphores.
 ~~~
@@ -116,11 +116,9 @@ if(NUM_LOOPS>=10)    {
 ~~~
 
 ## OUTPUT
-
 $ ./sem.o
 
 ![322712711-93491f07-6e92-4bd4-9273-908d89f07ec0](https://github.com/04Varsha/Linux-IPC-Semaphores/assets/149035374/d39c2d90-86da-438a-98cf-87f5dbe2511b)
-
 
 $ ipcs
 
