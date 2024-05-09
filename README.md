@@ -14,9 +14,9 @@ Navigate to any Linux environment installed on the system or installed inside a 
 
 Write the C Program using Linux Process API - Sempahores
 
-
-
 ### Step 3:
+
+
 
 Execute the C Program for the desired output. 
 
